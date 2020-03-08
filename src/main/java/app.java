@@ -5,5 +5,6 @@ public class app {
 
             //esta es la otra rama
         System.out.println("tercera rama");
+        System.out.println("tercera rama");
     }
 }
